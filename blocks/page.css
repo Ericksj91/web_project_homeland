@@ -1,0 +1,20 @@
+.page {
+  min-width: 100%;
+  max-width: 1280px;
+  min-height: 100vh;
+  background-color: #2a2c2f;
+  margin: auto;
+  padding-top: 32px;
+}
+
+@media screen and (max-width: 1024px) {
+  .page {
+    padding-top: 30px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .page {
+    padding-top: 20px;
+  }
+}
