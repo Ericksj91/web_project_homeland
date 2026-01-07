@@ -86,7 +86,7 @@
   font-size: 18px;
   line-height: 100%;
   padding: 18px;
-  background-image: linear-gradient(#0278fe, #003a7b);
+  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   border: none;
   box-sizing: border-box;
   box-shadow: 5px 5px 10px 0px #00000040;
